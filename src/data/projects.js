@@ -1,5 +1,5 @@
 import schoolProjectImage from "../assets/projects/School-Project.png";
-import iconClubImage from "../assets/projects/Icon-Club.png";
+import iconClubImage from "../assets/projects/CIC-Landing Page.png";
 
 export const projects = [
   {
